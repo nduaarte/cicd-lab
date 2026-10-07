@@ -26,5 +26,3 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
 });
-const naoUsada = 1;
-const naoUsada = 1;
