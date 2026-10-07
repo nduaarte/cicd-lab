@@ -27,3 +27,4 @@ const styles = StyleSheet.create({
   },
 });
 const naoUsada = 1;
+const naoUsada = 1;
