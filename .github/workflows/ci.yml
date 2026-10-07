@@ -1,0 +1,12 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  ola:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dizer oi
+        run: echo "Olá, CI!"
